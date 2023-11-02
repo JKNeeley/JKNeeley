@@ -13,7 +13,6 @@ Hello! I’m Jade. I’m looking to learn from others and develop my CS skills a
 - Girls Who Code - Lifetime Member
 - Society of Women Engineers
 - AnitaB.org
-- MEDUIM
 - Association of Computing Machinery
 - DeepLearning.AI
 - FIRST Lifetime Member
