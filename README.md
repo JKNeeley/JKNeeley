@@ -1,70 +1,98 @@
-- 👋 Hi, I’m @JKNeeley
-- 👀 I’m looking to learn from others and develop my CS skills as I grow my career.
+Hello! I’m Jade. I’m looking to learn from others and develop my CS skills as I grow my career.
 
-**Technical Skills**
-- 🌳 I am experienced in Java, C++, C, Python
-- 🪴 I am proficient in MySQL, HTML, CSS
-- 🌱 I am exploring *???*
+### Technical Skills
+- 🌳 I am experienced in Java, C++, Python, HTML, Git, Jenkins, Linux, Agile
+- 🪴 I am proficient in MySQL, React, Tailwind CSS, Amazon Web Services, Flask, TensorFlow
+- 🌱 I am exploring  MongoDB, Express, Angular, Node.js, Swift
 
-**Education**
-- 🐅 Kirksville Senior High School 2020 graduate - High School Diploma
-- 🐯 University of Missouri December 2023 graduate - B.S. in Computer Science
-  - Capstone Project: Online Voting Application
+### Education
+- 🐅 Kirksville Senior High School May 2020 graduate - High School Diploma
+- 🐯 University of Missouri December 2023 graduate - B.S. in Computer Science with a minor in Mathematics
 
-**Technical Work Experience**
-- FIRST Lego League Mentor
-- 💻 Software Carpentries Workshop Volunteer
-- 🖥 Student Assistant at Ellis Library - 2 years
-  - Conducted in-depth research to professionally organize and publish the data
-  - Managed organization of physical documents and overflow items
-- 💻 Part-time Software Engineer at Shelter Insurance - since November 2022
-  - Collaborate with team members to develop effective solutions within an Agile framework
-  - Develop features on a variety of Java-based internal applications within a branch-based Gitflow environment
-  - Assist with application migration to Amazon Web Services
-
-**Relevant School Projects**    *note: These are kept either private or not on Github at this time.* 
-- ChatRoom - submitted in 2022 for the Computer Networks Final Project
-  - A communication application between a server and client using Python's socket API.
-  - The application uses threading to allow 2 or more clients to communicate.
-- HONK - submitted in 2022 for the Object Oriented Languages Final Project
-  - A command line Java-based game application that allows a user to create a goose and interact with surrounding geese, food, and objects as they collect them. 
-  - The goal is to feed the entire gaggle of geese, but beware of your goose's type, it changes some actions!
-- Augur Documentation Updates - submitted in 2022 for the Software Engineering Final Project
-  - After using the augur/CHAOSS software in class, updates were made to the existing documentation to allow easier use to those new to open-source software.
-  - There were also suggestions given for future documentation pages that would be helpful but do not currently exist.
-- Easy File Stystem - due 2023 for the Operating Systems Final Project
-  - A filesystem program that mimics the Unix Filesystem.
-  - Uses a homebrew Block Store and Bitmap structure and associated functions to accomplish this task.
-- 
-
-**Independent Projects**    *note: These are kept either private or not on Github at this time.*
-- Creature-Fight Hackathon - completed in 2021
-  - Worked with a peer to develop and design a programming competition for my CS 2050 class to study for a test.
-- Phone App for Religious texts - started in 2021
-  - Initiated a Community of Christ software group to create a new phone application for users to access all of the church's books of scripture.
-  - This fills the need for an application that included all scripture recognized by the Community of Christ church in one application.
-- RED - started in 2022
-  - A female-focused locally hosted PHP application linked to a MySQL database for integrating journaling, life planning, and tracking to view health trends between life events, menstrual cycles, moods, and more.
-  - The intent is to use these trends to develop healthier lifestyle choices and better oneself!
-- parody of Flappy Bird - started in 2023
-  - A twist on the classic game where your flock grows the longer you survive.
-  - The rate and kind of pillars is static through the game. 
- 
-**Organizations**
+### Technical Communities
 - Girls Who Code - Lifetime Member
-- 🐨 DevelopHER at University of Missouri - current president
-- 🐬 Alpha Omega Epsilon Beta Zeta
-- Society of Women Engineers at University of Missouri 
-- 🍀 Engineer's Club at University of Missouri 
-- Student Organization for the Advancement of Research Education at University of Missouri 
-- CyberTygers  at University of Missouri 
-- MIZZOU Computing Association
-- MU Virtual Reality
-- MU 3D Printing Club
-- Major League Hacking 
+- Society of Women Engineers
+- AnitaB.org
+- MEDUIM
 - Association of Computing Machinery
+- DeepLearning.AI
+- FIRST Lifetime Member
+- Develop[HER] at University of Missouri Alumni
+- Engineer's Club at University of Missouri Alumni
+  
+### Technical Work Experience
+- 💻 Software Engineer at Shelter Insurance - since November 2022
+  - Developed an internal Java app, increasing auditing efficiency by 2,000 clicks daily.
+  - Collaborated on features for 32 internal apps, providing user-centric solutions.
+  - Resolved user incidents by coordinating with others, implementing effective resolutions.
+  - Created comprehensive Agile documentation, facilitating CI/CD integration.
+- 🖥 Peer Mentor at the University of Missouri - College of Engineering - 2 years
+  - Provided insight to incoming engineering students about opportunities and professionalism.
+  - Fostered collaboration and communication skills in students to excel in work environments.
+- 💻 Software Carpentries Workshop Volunteer at University of Missouri - 2 years
+  - Aided non-technical students in gaining technical skills through Python or Shell workshops.
+  - Enhanced problem-solving abilities and coding proficiency in workshop participants.
+- 🖥 Student Assistant at Ellis Library - 2 years
+  - Utilized HTML and Bootstrap to enhance the department website's design and functionality.
+  - Managed organization of physical documents and overflow items with attention to detail.
 
+### Independent Projects    
+*note: These are kept either private or not on Github at this time.*
+- Ice Cream of the Month Blog Website 2020
+- Pastel Minecraft Mod 2021
+- Coding Challenge Escape Room 2022
+- Critter Circle Animal Social Media 2023
+ 
+### Hackathon Participation
+*note: These are kept either private or not on Github at this time.* 
+- **TigerHacks 2020** Dynamic Map of COVID-19 - 2020
+- **Creature Fight** Organizer - 2021
+- **BSides Des Moines CTF** 6th place - 2022
+- **Birds Of A Feather** Flappy Bird Parody - 2023
+- **TigerHacks 2023** AI Meme Generator - 2023
 
+### Relevant University Projects
+*note: These are kept either private or not on Github at this time.* 
+- Dynamic 2D Arrays - submitted 2021 for Data Structures
+- Doubly Linked Lists - submitted 2021 for Data Structures
+- Binary Tree Map - submitted 2021 for Data Structures
+- Winter at Hogwarts - submitted 2021 for Computer Modeling and Animation
+- Micro-Facebook - submitted 2022 for Advanced Algorithm and Logic Design
+- Red-Black Tree - submitted 2022 for Advanced Algorithm and Logic Design
+- Up-Down Elevator - submitted 2022 for Advanced Algorithm and Logic Design
+- HONK - submitted 2022 for Object Oriented Programming
+- Tracking RED - submitted 2022 for Database Applications and Information Systems
+- (LEETCODE) - submitted 2022 for Design and Analysis of Algorithms
+- x-th Smallest - submitted 2022 for Design and Analysis of Algorithms
+- Flower Classification Website - submitted 2023 for Independent Study of Machine Learning
+- Augur Documentation Updates - submitted 2022 for Software Engineering
+- (Final) - submitted 2023 for iOS Application Development
+- (SEED LABS) - submitted 2023 for Software Security
+- Block Store - submitted 2023 for Operating Systems
+- Easy File System - submitted 2023 for Operating Systems
+- (??? LABS) - submitted 2023 for Cloud Computing
+- (SEED LABS) - submitted 2023 for Cyber Defense
+- (MCR LABS) - submitted 2023 for Cyber Defense
+- BodiGuide Secure Cloud Solution - submitted 2023 for Cyber Defense
+- (UNITY BOOK DEMOS) - submitted 2023 for Game Development
+- Brain Game Parody - submitted 2023 for Game Development
+- (Final) - submitted 2023 for Game Development
+- Vacuum-Cleaner World Searches - submitted 2023 for Artificial Intelligence
+- Minimax Connect4 - submitted 2023 for Artificial Intelligence
+- CSP Sudoku - submitted 2023 for Artificial Intelligence
+- Local ChatRoom - submitted 2022 for Computer Networks
+- Let's Decide - submitted 2023 for Senior Capstone Design
+
+### Other Relevant Coursework and Certifications
+- CS 1000 Intro to CS
+- IT 1040 Intro to Problem Solving and Programming
+- CS 1050 Algorithm and Design 
+- CS 2270 Intro to Logic Systems
+- IT 2810 Fundamentals of Network Technology
+- IT 2910 Cybersecurity
+- CS 3280 Computer Organization and Assembly Language
+- IT 3530 UNIX Operating System 
+- CS 4410 Theory of Computation 
 
 <!---
 JKNeeley/JKNeeley is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
