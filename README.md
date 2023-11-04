@@ -2,10 +2,10 @@ Hello! I’m Jade. I’m looking to learn from others and develop my CS skills a
 
 ### Technical Skills
 - 🌳 I am experienced in Agile, CI/CD, CSS, Data Management, Flask, Git, HTML, HTTPS requests, Java, MySQL, Python, React, RESTful APIs, Shell, Tailwind CSS, UI/UX
-- 🪴 I am proficient in Amazon Web Services, Bash, Blender, C, CSS, C#, C++, Nano, PHP, Swift, TensorFlow, Unity, Unix
+- 🪴 I am proficient in Amazon Web Services, Bash, Blender, C, CSS, C#, C++, Nano, PHP, TensorFlow, Unix
 - 🌿 I am familiar with Forge, Google Maps API, Networking, Photoshop, WebSockets
-- 🌱 I am exploring MongoDB, Express, Angular, Node, AI APIs, 
-<!--- MEAN goes to proficient, AI APIs go to familiar --->
+- 🌱 I am exploring MongoDB, Express, Angular, Node, AI APIs, Unity, Swift
+<!--- MEAN goes to proficient, AI APIs go to familiar, Unity/Swift goes to proficient --->
 
 ### Education
 - 🐅 Kirksville Senior High School May 2020 graduate - High School Diploma
