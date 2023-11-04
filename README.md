@@ -1,9 +1,11 @@
 Hello! I’m Jade. I’m looking to learn from others and develop my CS skills as I grow my career.
 
 ### Technical Skills
-- 🌳 I am experienced in Java, C++, Python, HTML, Git, Jenkins, Linux, Agile
-- 🪴 I am proficient in MySQL, React, Tailwind CSS, Amazon Web Services, Flask, TensorFlow
-- 🌱 I am exploring  MongoDB, Express, Angular, Node.js, Swift
+- 🌳 I am experienced in Agile, CI/CD, CSS, Data Management, Flask, Git, HTML, HTTPS requests, Java, MySQL, Python, React, RESTful APIs, Shell, Tailwind CSS, UI/UX
+- 🪴 I am proficient in Amazon Web Services, Bash, Blender, C, CSS, C#, C++, Nano, PHP, Swift, TensorFlow, Unity, Unix
+- 🌿 I am familiar with Forge, Google Maps API, Networking, Photoshop, WebSockets
+- 🌱 I am exploring MongoDB, Express, Angular, Node, AI APIs, 
+<!--- MEAN goes to proficient, AI APIs go to familiar --->
 
 ### Education
 - 🐅 Kirksville Senior High School May 2020 graduate - High School Diploma
@@ -25,18 +27,22 @@ Hello! I’m Jade. I’m looking to learn from others and develop my CS skills a
   - Collaborated on features for 32 internal apps, providing user-centric solutions.
   - Resolved user incidents by coordinating with others, implementing effective resolutions.
   - Created comprehensive Agile documentation, facilitating CI/CD integration.
+  
 - 🖥 Peer Mentor at the University of Missouri - College of Engineering - 2 years
   - Provided insight to incoming engineering students about opportunities and professionalism.
   - Fostered collaboration and communication skills in students to excel in work environments.
+
 - 💻 Software Carpentries Workshop Volunteer at University of Missouri - 2 years
   - Aided non-technical students in gaining technical skills through Python or Shell workshops.
   - Enhanced problem-solving abilities and coding proficiency in workshop participants.
+
 - 🖥 Student Assistant at Ellis Library - 2 years
   - Utilized HTML and Bootstrap to enhance the department website's design and functionality.
   - Managed organization of physical documents and overflow items with attention to detail.
 
 ### Independent Projects    
 *note: These are kept either private or not on Github at this time.*
+
 - Ice Cream of the Month Blog Website 2020
 - Pastel Minecraft Mod 2021
 - Coding Challenge Escape Room 2022
@@ -44,14 +50,16 @@ Hello! I’m Jade. I’m looking to learn from others and develop my CS skills a
  
 ### Hackathon Participation
 *note: These are kept either private or not on Github at this time.* 
+
 - **TigerHacks 2020** Dynamic Map of COVID-19 - 2020
 - **Creature Fight** Organizer - 2021
-- **BSides Des Moines CTF** 6th place - 2022
+- **BSides Des Moines** CTF 6th place - 2022
 - **Birds Of A Feather** Flappy Bird Parody - 2023
 - **TigerHacks 2023** AI Meme Generator - 2023
 
 ### Relevant University Projects
 *note: These are kept either private or not on Github at this time.* 
+
 - Dynamic 2D Arrays - submitted 2021 for Data Structures
 - Doubly Linked Lists - submitted 2021 for Data Structures
 - Binary Tree Map - submitted 2021 for Data Structures
@@ -85,13 +93,13 @@ Hello! I’m Jade. I’m looking to learn from others and develop my CS skills a
 ### Other Relevant Coursework and Certifications
 - CS 1000 Intro to CS
 - IT 1040 Intro to Problem Solving and Programming
-- CS 1050 Algorithm and Design 
+- CS 1050 Algorithm and Design
 - CS 2270 Intro to Logic Systems
 - IT 2810 Fundamentals of Network Technology
 - IT 2910 Cybersecurity
 - CS 3280 Computer Organization and Assembly Language
-- IT 3530 UNIX Operating System 
-- CS 4410 Theory of Computation 
+- IT 3530 UNIX Operating System
+- CS 4410 Theory of Computation
 
 <!---
 JKNeeley/JKNeeley is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
