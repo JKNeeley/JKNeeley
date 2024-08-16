@@ -1,15 +1,10 @@
 Hello! I’m Jade. I’m looking to learn from others and develop my CS skills as I grow my career.
 
 ### Technical Skills
-- 🌳 I am experienced in Agile, CI/CD, CSS, Data Management, Flask, Git, HTML, HTTPS requests, Java, MySQL, Python, React, RESTful APIs, Shell, Tailwind CSS, UI/UX
-- 🪴 I am proficient in Amazon Web Services, Bash, Blender, C, CSS, C#, C++, Nano, PHP, TensorFlow, Unix
-- 🌿 I am familiar with Forge, Google Maps API, Networking, Photoshop, WebSockets
-- 🌱 I am exploring MongoDB, Express, Angular, Node, AI APIs, Unity, Swift
-<!--- MEAN goes to proficient, AI APIs go to familiar, Unity/Swift goes to proficient --->
-
-### Education
-- 🐅 Kirksville Senior High School May 2020 graduate - High School Diploma
-- 🐯 University of Missouri December 2023 graduate - B.S. in Computer Science with a minor in Mathematics
+- 🌳 I am experienced in Java, Spring, JUnit, React, HTML, Tailwind CSS, RESTful APIs, MySQL, Agile, Atlassian, Git, Jenkins, Data Management,
+- 🪴 I am proficient in Flask, Python, TensorFlow, Groovy, Spock, CSS, Bash, C, C#, C++, Nano, PHP, HTTPS requests, Shell, Unix, UI/UX, Amazon Web Services, Heroku
+- 🌿 I am familiar with MongoDB, Express, Angular, Node, Unity, Blender, Swift
+- 🌱 I am exploring Forge, Google Maps API, Networking, Photoshop, WebSockets, AI APIs
 
 ### Technical Communities
 - Girls Who Code - Lifetime Member
@@ -23,10 +18,15 @@ Hello! I’m Jade. I’m looking to learn from others and develop my CS skills a
   
 ### Technical Work Experience
 - 💻 Software Engineer at Shelter Insurance - since November 2022
-  - Developed an internal Java app, increasing auditing efficiency by 2,000 clicks daily.
-  - Collaborated on features for 32 internal apps, providing user-centric solutions.
+  - Collaborated on development for 36 Java/Spring applications within the Underwriting space
+    - to automate insurance policy updates and underwriting processes.
+	  - to integrate B2B policy review systems between partner organizations.
+	  - to implement batch jobs for automated client notifications of policy events. 
+  - Committed to best security practices, verifying users are authorized and authenticated.
   - Resolved user incidents by coordinating with others, implementing effective resolutions.
-  - Created comprehensive Agile documentation, facilitating CI/CD integration.
+  - Created Agile documentation with the Atlassian suite, improving agility and workflow.
+  - Utilized JUnit, Groovy, and Spock, ensuring reliability of business-critical applications.
+  - Leveraged Jenkins for CI/CD, guaranteeing rapid and stable deployments.
   
 - 🖥 Peer Mentor at the University of Missouri - College of Engineering - 2 years
   - Provided insight to incoming engineering students about opportunities and professionalism.
@@ -47,15 +47,20 @@ Hello! I’m Jade. I’m looking to learn from others and develop my CS skills a
 - Pastel Minecraft Mod 2021
 - Coding Challenge Escape Room 2022
 - Critter Circle Animal Social Media 2023
+- RecipeBox Website 2024
  
 ### Hackathon Participation
 *note: These are kept either private or not on Github at this time.* 
 
-- **TigerHacks 2020** Dynamic Map of COVID-19 - 2020
+- **TigerHacks 2020** Dynamic Map of COVID-19 - Google Maps API Award- 2020
 - **Creature Fight** Organizer - 2021
-- **BSides Des Moines** CTF 6th place - 2022
-- **Birds Of A Feather** Flappy Bird Parody - 2023
-- **TigerHacks 2023** AI Meme Generator - 2023
+- **BSides Des Moines** Security CTF - 6th place - 2022
+- **Birds Of A Feather** Flappy Bird Parody - 1st place - 2023
+- **TigerHacks 2023** AI Meme Generator - - 2023
+
+### Education
+- 🐅 Kirksville Senior High School May 2020 graduate - High School Diploma
+- 🐯 University of Missouri December 2023 graduate - B.S. in Computer Science with a minor in Mathematics
 
 ### Relevant University Projects
 *note: These are kept either private or not on Github at this time.* 
@@ -90,7 +95,7 @@ Hello! I’m Jade. I’m looking to learn from others and develop my CS skills a
 - Local ChatRoom - submitted 2022 for Computer Networks
 - Let's Decide - submitted 2023 for Senior Capstone Design
 
-### Other Relevant Coursework and Certifications
+### Other Relevant University Coursework
 - CS 1000 Intro to CS
 - IT 1040 Intro to Problem Solving and Programming
 - CS 1050 Algorithm and Design
