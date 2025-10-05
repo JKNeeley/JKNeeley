@@ -1,30 +1,41 @@
 Hello! I’m Jade. I’m looking to learn from others and develop my CS skills as I grow my career.
 
 ### Technical Skills
-- 🌳 I am experienced in Java, Spring, JUnit, React, HTML, Tailwind CSS, RESTful APIs, MySQL, Agile, Atlassian, Git, Jenkins, Data Management,
+- 🌳 I am experienced in Progress Openedge (ABL), Java, Spring, JUnit, React, HTML, Tailwind CSS, RESTful APIs, MySQL, Agile, Atlassian, Git, Jenkins, Data Management,
 - 🪴 I am proficient in Flask, Python, TensorFlow, Groovy, Spock, CSS, Bash, C, C#, C++, Nano, PHP, HTTPS requests, Shell, Unix, UI/UX, Amazon Web Services, Heroku
 - 🌿 I am familiar with MongoDB, Express, Angular, Node, Unity, Blender, Swift
 - 🌱 I am exploring Forge, Google Maps API, Networking, Photoshop, WebSockets, AI APIs
 
 ### Technical Communities
-- Girls Who Code - Lifetime Member
 - Society of Women Engineers
 - AnitaB.org
 - Association of Computing Machinery
 - DeepLearning.AI
 - FIRST Lifetime Member
-- Develop[HER] at University of Missouri Alumni
-- Engineer's Club at University of Missouri Alumni
-  
+- Girls Who Code - Lifetime Member  
+- Develop[HER] at University of Missouri - Alumni
+- Engineer's Club at University of Missouri - Alumni
+
 ### Technical Work Experience
-- 💻 Software Engineer at Shelter Insurance - since November 2022
+- 💻 Contract Software Developer at Gordon Food Service - since September 2024
+  - Participated in training for the Progress Openedge (ABL) software solution.
+  - Maintained a software system that was built in the 1990s.
+  - Communicated with team members to initiate and continue team management practices
+    - to keep sprint cadence with sprint retrospectives.
+    - to break down silos of expertise and encourage cross-training with additional peer reviews.
+  - Responded to technical and support requests of users to document and develop targeted solutions.
+  - Contributed to high-value software which directly impacted sales and reduced points of failure.
+  - Spear-headed development to manage store hours without manual database entry.
+  - Managed work across multiple projects across short and long timeframes.
+
+- 💻 Software Engineer at Shelter Insurance - 2 years
   - Collaborated on development for 36 Java/Spring applications within the Underwriting space
     - to automate insurance policy updates and underwriting processes.
-	  - to integrate B2B policy review systems between partner organizations.
-	  - to implement batch jobs for automated client notifications of policy events. 
+    - to integrate B2B policy review systems between partner organizations.
+    - to implement batch jobs for automated client notifications of policy events.
   - Committed to best security practices, verifying users are authorized and authenticated.
   - Resolved user incidents by coordinating with others, implementing effective resolutions.
-  - Created Agile documentation with the Atlassian suite, improving agility and workflow.
+  - Created Agile documentation within the Atlassian suite, improving agility and workflow.
   - Utilized JUnit, Groovy, and Spock, ensuring reliability of business-critical applications.
   - Leveraged Jenkins for CI/CD, guaranteeing rapid and stable deployments.
   
