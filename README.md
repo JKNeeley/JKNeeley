@@ -1,10 +1,54 @@
-Hello! I’m Jade. I’m looking to learn from others and develop my CS skills as I grow my career.
+Hello! I’m Jade. I’m looking to learn from others and develop my technical skills as I grow my career.
 
 ### Technical Skills
-- 🌳 I am experienced in Progress Openedge (ABL), Java, Spring, JUnit, React, HTML, Tailwind CSS, RESTful APIs, MySQL, Agile, Atlassian, Git, Jenkins, Data Management,
-- 🪴 I am proficient in Flask, Python, TensorFlow, Groovy, Spock, CSS, Bash, C, C#, C++, Nano, PHP, HTTPS requests, Shell, Unix, UI/UX, Amazon Web Services, Heroku
-- 🌿 I am familiar with MongoDB, Express, Angular, Node, Unity, Blender, Swift
-- 🌱 I am exploring Forge, Google Maps API, Networking, Photoshop, WebSockets, AI APIs
+- 🌳 I am experienced with Progress Openedge (ABL), Java, React, MySQL, RESTful APIs, Unit Testing, Git, Agile
+- 🪴 I am proficient with Python, C, Spring Boot Framework, HTML, CSS, Amazon Web Services, Atlassian, Jenkins, Unix, Linux, nano/vi
+- 🌿 I am familiar with C#, C++, Flask, Angular, Node.js, TensorFlow, PHP, MongoDB, AI APIs, Unity, Blender, Swift, Networking, Heroku Cloud Services
+- 🌱 I am exploring Google Cloud technologies
+
+### Technical Certifications
+- Machine Learning Certification by DeepLearning.ai - 2023
+- Basic OpenEdge Developer Certification by Progress - 2024
+
+### Technical Work Experience
+- 💻 Contract Software Developer at Gordon Food Service - full-time - since September 2024
+  - Participated in training for the Progress Openedge (ABL) software solution.
+  - Communicated with team members to initiate and continue team management practices
+    - to keep sprint cadence with sprint retrospectives and velocity updates.
+    - to break down experience silos and cross-train new members with additional peer reviews.
+  - Maintained a legacy software system that was originally built >30 years ago.
+  - Responded to support requests of users to document and develop targeted solutions.
+  - Contributed to high-value software which directly impacted store success
+    - in cost condition typing; successfully integrated new types from an outside system.
+    - in sign and tag generation; met loyalty, sequencing, and modernization objectives.
+    - in customer credits; enforced credit restrictions, decreased credit value errors to <10%.
+    - in item repricing across all orders; reduced item-price related errors by 90%.
+    - in delivery routing maintenance; automated the error handling process.
+    - in store hours UI creation; eliminated seasonal and emergent manual database changes.
+  - Managed time and work efforts across multiple projects of various sizes to meet deadlines.
+
+- 💻 Software Engineer at Shelter Insurance - full-time - 2 years
+  - Collaborated on development for 36 Java/Spring applications within the Underwriting space
+    - to automate insurance policy updates and underwriting processes.
+    - to integrate B2B policy review systems between partner organizations.
+    - to implement batch jobs for automated client notifications of policy events.
+  - Committed to best security practices, verifying users are authorized and authenticated.
+  - Resolved user incidents by coordinating with others, implementing effective resolutions.
+  - Created Agile documentation within the Atlassian suite, improving agility and workflow.
+  - Utilized JUnit, Groovy, and Spock, ensuring reliability of business-critical applications.
+  - Leveraged Jenkins for CI/CD, guaranteeing rapid and stable deployments.
+  
+- 🖥 Peer Mentor at the University of Missouri - College of Engineering - part-time - 2 years
+  - Provided insight to incoming engineering students about opportunities and professionalism.
+  - Fostered collaboration and communication skills in students to excel in work environments.
+
+- 💻 Software Carpentries Workshop Volunteer at University of Missouri - part-time - 2 years
+  - Aided non-technical students in gaining technical skills through Python or Shell workshops.
+  - Enhanced problem-solving abilities and coding proficiency in workshop participants.
+
+- 🖥 Student Assistant at Ellis Library - part-time - 2 years
+  - Utilized HTML and Bootstrap to enhance the department website's design and functionality.
+  - Managed organization of physical documents and overflow items with attention to detail.
 
 ### Technical Communities
 - Society of Women Engineers
@@ -16,65 +60,30 @@ Hello! I’m Jade. I’m looking to learn from others and develop my CS skills a
 - Develop[HER] at University of Missouri - Alumni
 - Engineer's Club at University of Missouri - Alumni
 
-### Technical Work Experience
-- 💻 Contract Software Developer at Gordon Food Service - since September 2024
-  - Participated in training for the Progress Openedge (ABL) software solution.
-  - Maintained a software system that was built in the 1990s.
-  - Communicated with team members to initiate and continue team management practices
-    - to keep sprint cadence with sprint retrospectives.
-    - to break down silos of expertise and encourage cross-training with additional peer reviews.
-  - Responded to technical and support requests of users to document and develop targeted solutions.
-  - Contributed to high-value software which directly impacted sales and reduced points of failure.
-  - Spear-headed development to manage store hours without manual database entry.
-  - Managed work across multiple projects across short and long timeframes.
-
-- 💻 Software Engineer at Shelter Insurance - 2 years
-  - Collaborated on development for 36 Java/Spring applications within the Underwriting space
-    - to automate insurance policy updates and underwriting processes.
-    - to integrate B2B policy review systems between partner organizations.
-    - to implement batch jobs for automated client notifications of policy events.
-  - Committed to best security practices, verifying users are authorized and authenticated.
-  - Resolved user incidents by coordinating with others, implementing effective resolutions.
-  - Created Agile documentation within the Atlassian suite, improving agility and workflow.
-  - Utilized JUnit, Groovy, and Spock, ensuring reliability of business-critical applications.
-  - Leveraged Jenkins for CI/CD, guaranteeing rapid and stable deployments.
-  
-- 🖥 Peer Mentor at the University of Missouri - College of Engineering - 2 years
-  - Provided insight to incoming engineering students about opportunities and professionalism.
-  - Fostered collaboration and communication skills in students to excel in work environments.
-
-- 💻 Software Carpentries Workshop Volunteer at University of Missouri - 2 years
-  - Aided non-technical students in gaining technical skills through Python or Shell workshops.
-  - Enhanced problem-solving abilities and coding proficiency in workshop participants.
-
-- 🖥 Student Assistant at Ellis Library - 2 years
-  - Utilized HTML and Bootstrap to enhance the department website's design and functionality.
-  - Managed organization of physical documents and overflow items with attention to detail.
-
 ### Independent Projects    
-*note: These are kept either private or not on Github at this time.*
+*note: These may be kept either private or not on Github at this time.*
 
 - Ice Cream of the Month Blog Website 2020
 - Pastel Minecraft Mod 2021
 - Coding Challenge Escape Room 2022
 - Critter Circle Animal Social Media 2023
 - RecipeBox Website 2024
- 
-### Hackathon Participation
-*note: These are kept either private or not on Github at this time.* 
+
+### Education
+- 🐅 Kirksville Senior High School May 2020 graduate - High School Diploma
+- 🐯 University of Missouri December 2023 graduate - B.S. in Computer Science, minor in Mathematics
+
+### Collegiate Hackathon Participation
+*note: These may be kept either private or not on Github at this time.* 
 
 - **TigerHacks 2020** Dynamic Map of COVID-19 - Google Maps API Award- 2020
 - **Creature Fight** Organizer - 2021
 - **BSides Des Moines** Security CTF - 6th place - 2022
-- **Birds Of A Feather** Flappy Bird Parody - 1st place - 2023
-- **TigerHacks 2023** AI Meme Generator - - 2023
-
-### Education
-- 🐅 Kirksville Senior High School May 2020 graduate - High School Diploma
-- 🐯 University of Missouri December 2023 graduate - B.S. in Computer Science with a minor in Mathematics
+- **Birds Of A Feather** Untitled Goose Game Parody - 1st place - 2023
+- **TigerHacks 2023** AI Meme Generator - Judge's Favorite Award - 2023
 
 ### Relevant University Projects
-*note: These are kept either private or not on Github at this time.* 
+*note: These may be kept either private or not on Github at this time.* 
 
 - Dynamic 2D Arrays - submitted 2021 for Data Structures
 - Doubly Linked Lists - submitted 2021 for Data Structures
