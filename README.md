@@ -2,17 +2,18 @@ Hello! I’m Jade. I’m looking to learn from others and develop my technical s
 
 ### Technical Skills
 - 🌳 I am experienced with Progress Openedge (ABL), Java, React, MySQL, RESTful APIs, Unit Testing, Git, Agile
-- 🪴 I am proficient with Python, C, Spring Boot Framework, HTML, CSS, Amazon Web Services, Atlassian, Jenkins, Unix, Linux, nano/vi
+- 🪴 I am proficient with Python, C, Spring Boot Framework, HTML, CSS, Amazon Web Services, Atlassian, Jenkins, Unix, Linux, SVN, nano/vi
 - 🌿 I am familiar with C#, C++, Flask, Angular, Node.js, TensorFlow, PHP, MongoDB, AI APIs, Unity, Blender, Swift, Networking, Heroku Cloud Services
 - 🌱 I am exploring Google Cloud technologies
 
 ### Technical Certifications
 - Machine Learning Certification by DeepLearning.ai - 2023
 - Basic OpenEdge Developer Certification by Progress - 2024
+- GCP Data Practitioner - in progress
 
 ### Technical Work Experience
-- 💻 Contract Software Developer at Gordon Food Service - full-time - since September 2024
-  - Participated in training for the Progress Openedge (ABL) software solution.
+- 💻/🖥 Contract Software Developer at Gordon Food Service - full-time - since September 2024
+  - Participated in training for Progress Openedge (ABL) software solution.
   - Communicated with team members to initiate and continue team management practices
     - to keep sprint cadence with sprint retrospectives and velocity updates.
     - to break down experience silos and cross-train new members with additional peer reviews.
@@ -21,22 +22,24 @@ Hello! I’m Jade. I’m looking to learn from others and develop my technical s
   - Contributed to high-value software which directly impacted store success
     - in cost condition typing; successfully integrated new types from an outside system.
     - in sign and tag generation; met loyalty, sequencing, and modernization objectives.
-    - in customer credits; enforced credit restrictions, decreased credit value errors to <10%.
+    - in customer credits; enforced restrictions, decreased credit value errors to <10%.
     - in item repricing across all orders; reduced item-price related errors by 90%.
     - in delivery routing maintenance; automated the error handling process.
     - in store hours UI creation; eliminated seasonal and emergent manual database changes.
   - Managed time and work efforts across multiple projects of various sizes to meet deadlines.
 
 - 💻 Software Engineer at Shelter Insurance - full-time - 2 years
-  - Collaborated on development for 36 Java/Spring applications within the Underwriting space
+  - Collaborated on development for 36 Java/Spring applications in the Underwriting space
     - to automate insurance policy updates and underwriting processes.
     - to integrate B2B policy review systems between partner organizations.
     - to implement batch jobs for automated client notifications of policy events.
-  - Committed to best security practices, verifying users are authorized and authenticated.
-  - Resolved user incidents by coordinating with others, implementing effective resolutions.
-  - Created Agile documentation within the Atlassian suite, improving agility and workflow.
-  - Utilized JUnit, Groovy, and Spock, ensuring reliability of business-critical applications.
-  - Leveraged Jenkins for CI/CD, guaranteeing rapid and stable deployments.
+  - Committed to best security practices:
+    - participated in quarterly security trainings and passed their exams.
+    - verified users are authorized and authenticated according to roles and SSO.
+  - Resolved user incidents; coordinated with others, implementing effective resolutions.
+  - Created Agile documentation within the Atlassian suite; improved agility and workflow.
+  - Utilized JUnit, Groovy, and Spock; ensured reliability of business-critical applications.
+  - Leveraged Jenkins for CI/CD; guaranteed rapid and stable deployments for change requests.
   
 - 🖥 Peer Mentor at the University of Missouri - College of Engineering - part-time - 2 years
   - Provided insight to incoming engineering students about opportunities and professionalism.
@@ -63,15 +66,15 @@ Hello! I’m Jade. I’m looking to learn from others and develop my technical s
 ### Independent Projects    
 *note: These may be kept either private or not on Github at this time.*
 
-- Ice Cream of the Month Blog Website 2020
-- Pastel Minecraft Mod 2021
-- Coding Challenge Escape Room 2022
-- Critter Circle Animal Social Media 2023
-- RecipeBox Website 2024
+- Ice Cream of the Month Blog Website - 2020
+- Pastel Minecraft (Java Edition) Mod - 2021
+- Coding Challenge Escape Room - 2022
+- Critter Circle Animal Social Media - 2023
+- RecipeBox Website - 2024, 2025
 
 ### Education
-- 🐅 Kirksville Senior High School May 2020 graduate - High School Diploma
-- 🐯 University of Missouri December 2023 graduate - B.S. in Computer Science, minor in Mathematics
+- 🐅 Kirksville Senior High School - May 2020 graduate - High School Diploma
+- 🐯 University of Missouri - December 2023 graduate - B.S. in Computer Science, minor in Mathematics
 
 ### Collegiate Hackathon Participation
 *note: These may be kept either private or not on Github at this time.* 
@@ -102,7 +105,7 @@ Hello! I’m Jade. I’m looking to learn from others and develop my technical s
 - (SEED LABS) - submitted 2023 for Software Security
 - Block Store - submitted 2023 for Operating Systems
 - Easy File System - submitted 2023 for Operating Systems
-- (??? LABS) - submitted 2023 for Cloud Computing
+- (AWS LABS) - submitted 2023 for Cloud Computing
 - (SEED LABS) - submitted 2023 for Cyber Defense
 - (MCR LABS) - submitted 2023 for Cyber Defense
 - BodiGuide Secure Cloud Solution - submitted 2023 for Cyber Defense
@@ -116,15 +119,11 @@ Hello! I’m Jade. I’m looking to learn from others and develop my technical s
 - Let's Decide - submitted 2023 for Senior Capstone Design
 
 ### Other Relevant University Coursework
-- CS 1000 Intro to CS
-- IT 1040 Intro to Problem Solving and Programming
-- CS 1050 Algorithm and Design
-- CS 2270 Intro to Logic Systems
-- IT 2810 Fundamentals of Network Technology
-- IT 2910 Cybersecurity
-- CS 3280 Computer Organization and Assembly Language
-- IT 3530 UNIX Operating System
-- CS 4410 Theory of Computation
+- Logic Systems and Network Technology
+- Cybersecurity
+- Computer Organization and Assembly Language
+- UNIX Operating System
+- Theory of Computation
 
 <!---
 JKNeeley/JKNeeley is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
